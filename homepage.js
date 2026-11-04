@@ -11,19 +11,28 @@
   const search = document.querySelector('#publication-search');
   const year = document.querySelector('#publication-year');
   const first = document.querySelector('#first-author');
+  const corresponding = document.querySelector('#corresponding-author');
+  const reset = document.querySelector('#reset-filters');
   const papers = [...document.querySelectorAll('.paper')];
+  const paperGroups = [...document.querySelectorAll('.paper-group')];
   function filterPapers() {
     const query = search.value.trim().toLocaleLowerCase();
     let visible = 0;
     papers.forEach(paper => {
-      const match = (!query || paper.textContent.toLocaleLowerCase().includes(query)) &&
+      const matchesRole = (!first.checked && !corresponding.checked) ||
+        (first.checked && paper.dataset.first === 'true') ||
+        (corresponding.checked && paper.dataset.corresponding === 'true');
+      const searchableText = `${paper.textContent} ${paper.dataset.search || ''}`.toLocaleLowerCase();
+      const match = (!query || searchableText.includes(query)) &&
         (year.value === 'all' || paper.dataset.year === year.value) &&
-        (!first.checked || paper.dataset.first === 'true');
+        matchesRole;
       paper.hidden = !match;
       if (match) visible++;
     });
-    document.querySelector('#publication-count').textContent = language === 'zh' ? `显示 ${visible} / ${papers.length} 篇精选论文` : `Showing ${visible} of ${papers.length} selected publications`;
+    paperGroups.forEach(group => { group.hidden = !group.querySelector('.paper:not([hidden])'); });
+    document.querySelector('#publication-count').textContent = language === 'zh' ? `显示 ${visible} / ${papers.length} 篇论文` : `Showing ${visible} of ${papers.length} publications`;
     document.querySelector('#no-results').hidden = visible !== 0;
+    reset.hidden = !query && year.value === 'all' && !first.checked && !corresponding.checked;
   }
   function updateThemeLabel() {
     const isDark = root.dataset.theme === 'dark';
@@ -63,6 +72,15 @@
   search.addEventListener('input', filterPapers);
   year.addEventListener('change', filterPapers);
   first.addEventListener('change', filterPapers);
+  corresponding.addEventListener('change', filterPapers);
+  reset.addEventListener('click', () => {
+    search.value = '';
+    year.value = 'all';
+    first.checked = false;
+    corresponding.checked = false;
+    filterPapers();
+    search.focus();
+  });
   const sections = [...document.querySelectorAll('main > [id]')];
   if ('IntersectionObserver' in window) {
     const observer = new IntersectionObserver(entries => {

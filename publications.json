@@ -1,0 +1,1310 @@
+[
+  {
+    "id": "1",
+    "title": "Multi-LLM Systems Exhibit Robust Semantic Collapse",
+    "authors": [
+      "Weiyi Kong",
+      "Shiyang Lai",
+      "Jinghua Piao",
+      "James Evans"
+    ],
+    "year": 2026,
+    "venue": "Nature Machine Intelligence",
+    "status": "accepted",
+    "url": "https://arxiv.org/abs/2605.17193",
+    "first": null,
+    "corresponding": false,
+    "links": [
+      {
+        "kind": "preprint",
+        "url": "https://arxiv.org/abs/2605.17193"
+      }
+    ],
+    "sources": [
+      "https://arxiv.org/abs/2605.17193"
+    ],
+    "statusNote": "Nature Machine Intelligence acceptance confirmed by Jinghua Piao on 2026-11-04; not yet published."
+  },
+  {
+    "id": "2",
+    "title": "Emergence of polarization in networks of large language model agents",
+    "authors": [
+      "Jinghua Piao",
+      "Zhihong Lu",
+      "Chen Gao",
+      "Fengli Xu",
+      "Qinghua Hu",
+      "Fernando P. Santos",
+      "Yong Li",
+      "James Evans"
+    ],
+    "year": 2026,
+    "venue": "Nature Communications",
+    "status": "published",
+    "url": "https://www.nature.com/articles/s41467-026-78228-y",
+    "first": "co-first",
+    "corresponding": false,
+    "links": [
+      {
+        "kind": "paper",
+        "url": "https://www.nature.com/articles/s41467-026-78228-y"
+      },
+      {
+        "kind": "preprint",
+        "url": "https://arxiv.org/abs/2501.05171"
+      }
+    ],
+    "sources": [
+      "https://www.nature.com/articles/s41467-026-78228-y"
+    ]
+  },
+  {
+    "id": "3",
+    "title": "AgentSociety: Large-scale simulation of LLM-driven generative agents advances understanding of human behaviors and society",
+    "authors": [
+      "Jinghua Piao",
+      "Yuwei Yan",
+      "Jun Zhang",
+      "Nian Li",
+      "Junbo Yan",
+      "Xiaochong Lan",
+      "Zhihong Lu",
+      "Zhiheng Zheng",
+      "Jing Yi Wang",
+      "Di Zhou",
+      "Chen Gao",
+      "Fengli Xu",
+      "Fang Zhang",
+      "Ke Rong",
+      "Jun Su",
+      "Yong Li"
+    ],
+    "year": 2026,
+    "venue": "iFuture",
+    "status": "just-accepted",
+    "url": "https://doi.org/10.26599/IF.2026.9710004",
+    "first": "co-first",
+    "corresponding": false,
+    "links": [
+      {
+        "kind": "paper",
+        "url": "https://doi.org/10.26599/IF.2026.9710004"
+      },
+      {
+        "kind": "code",
+        "url": "https://github.com/tsinghua-fib-lab/AgentSociety"
+      }
+    ],
+    "sources": [
+      "https://doi.org/10.26599/IF.2026.9710004"
+    ]
+  },
+  {
+    "id": "4",
+    "title": "MarketSim: Simulating Stock Markets with Large-Scale Generative Agents",
+    "authors": [
+      "Jinghua Piao",
+      "Zhentao Liu",
+      "Cheng Huang",
+      "Jiarui Huang",
+      "Songwei Li",
+      "Ranran Wang",
+      "Yong Li"
+    ],
+    "year": 2026,
+    "venue": "ICML 2026",
+    "status": "published",
+    "url": "https://proceedings.mlr.press/v306/piao26b.html",
+    "first": "co-first",
+    "corresponding": false,
+    "links": [
+      {
+        "kind": "paper",
+        "url": "https://proceedings.mlr.press/v306/piao26b.html"
+      },
+      {
+        "kind": "code",
+        "url": "https://github.com/xxxx-q11/MarketSim"
+      }
+    ],
+    "sources": [
+      "https://proceedings.mlr.press/v306/piao26b.html"
+    ],
+    "alternateTitles": [
+      "Fidelity Breeds Complexity: Simulating Stock Markets with Large-Scale Generative Agents"
+    ]
+  },
+  {
+    "id": "5",
+    "title": "AgentSociety 2: An Integrated Research Environment for Executable Social Science",
+    "authors": [
+      "Jinghua Piao",
+      "Jun Zhang",
+      "Haoyu Huang",
+      "Keming Zhang",
+      "Jing Yi Wang",
+      "Xinran Zhao",
+      "Songwei Li",
+      "Boyuan Sun",
+      "Jiayi Chang",
+      "Fengli Xu",
+      "Chunyan Wang",
+      "Fang Zhang",
+      "Ke Rong",
+      "Jun Su",
+      "Tianguang Meng",
+      "Yi Liu",
+      "Qingguo Meng",
+      "Yu Wang",
+      "Yong Li"
+    ],
+    "year": 2026,
+    "venue": "Preprint · arXiv:2607.11895",
+    "status": "preprint",
+    "url": "https://arxiv.org/abs/2607.11895",
+    "first": "co-first",
+    "corresponding": false,
+    "links": [
+      {
+        "kind": "paper",
+        "url": "https://arxiv.org/abs/2607.11895"
+      },
+      {
+        "kind": "platform",
+        "url": "https://agentsociety2.fiblab.net/"
+      }
+    ],
+    "sources": [
+      "https://arxiv.org/abs/2607.11895"
+    ]
+  },
+  {
+    "id": "vetta",
+    "title": "VETTA: Coordinating Turn- and Token-Level Credit Assignment for Multi-Turn LLM Agents",
+    "authors": [
+      "Jiaju Chen",
+      "Min Yang",
+      "Jinghua Piao",
+      "Xiaochong Lan",
+      "Xu Xia",
+      "Xiangnan He",
+      "Yong Li"
+    ],
+    "year": 2026,
+    "venue": "Preprint · arXiv:2610.08402",
+    "status": "preprint",
+    "url": "https://arxiv.org/abs/2610.08402",
+    "first": null,
+    "corresponding": true,
+    "links": [
+      {
+        "kind": "preprint",
+        "url": "https://arxiv.org/abs/2610.08402"
+      }
+    ],
+    "sources": [
+      "https://arxiv.org/html/2610.08402v1"
+    ]
+  },
+  {
+    "id": "grounding",
+    "title": "Grounding LLM Agent Intent in Multi-Module Environments with Executable Action Programs",
+    "authors": [
+      "Jun Zhang",
+      "Boyuan Sun",
+      "Jinghua Piao",
+      "Haoyu Huang",
+      "Depeng Jin",
+      "Yong Li"
+    ],
+    "year": 2026,
+    "venue": "EMNLP 2026",
+    "status": "published",
+    "url": "https://aclanthology.org/2026.emnlp-main.2226/",
+    "first": null,
+    "corresponding": false,
+    "links": [
+      {
+        "kind": "paper",
+        "url": "https://aclanthology.org/2026.emnlp-main.2226/"
+      }
+    ],
+    "sources": [
+      "https://aclanthology.org/2026.emnlp-main.2226/"
+    ]
+  },
+  {
+    "id": "cachespec",
+    "title": "CacheSpec: Finding the Sweet Spot for Small Models in Large Language Models",
+    "authors": [
+      "Jingquan Chen",
+      "Jie Feng",
+      "Jinghua Piao",
+      "Shaogang Hu",
+      "Yong Li"
+    ],
+    "year": 2026,
+    "venue": "EMNLP 2026",
+    "status": "published",
+    "url": "https://aclanthology.org/2026.emnlp-main.1223/",
+    "first": null,
+    "corresponding": true,
+    "links": [
+      {
+        "kind": "paper",
+        "url": "https://aclanthology.org/2026.emnlp-main.1223/"
+      }
+    ],
+    "sources": [
+      "https://aclanthology.org/2026.emnlp-main.1223.pdf",
+      "https://arxiv.org/abs/2607.20507"
+    ],
+    "alternateTitles": [
+      "MiniCache: Reusable Program Caching with Small Model Interfaces for Efficient LLM Inference"
+    ]
+  },
+  {
+    "id": "enterprisebench",
+    "title": "EnterpriseBench: Benchmarking LLM Agents on Enterprise-Level Strategic Reasoning and Decision-Making",
+    "authors": [
+      "Min Yang",
+      "Yichen Pan",
+      "Jinghua Piao",
+      "Dandan Song",
+      "Yongshun Gong",
+      "Yong Li"
+    ],
+    "year": 2026,
+    "venue": "Findings of EMNLP 2026",
+    "status": "published",
+    "url": "https://aclanthology.org/2026.findings-emnlp.932/",
+    "first": null,
+    "corresponding": true,
+    "links": [
+      {
+        "kind": "paper",
+        "url": "https://aclanthology.org/2026.findings-emnlp.932/"
+      }
+    ],
+    "sources": [
+      "https://aclanthology.org/2026.findings-emnlp.932.pdf"
+    ]
+  },
+  {
+    "id": "scoring",
+    "title": "From Scoring to Acting: Outcome-Verified Comparative Self-Distillation for LLM Agents",
+    "authors": [
+      "Xu Xia",
+      "Jinghua Piao",
+      "Min Yang",
+      "Xiaochong Lan",
+      "Jiaju Chen",
+      "Yong Li"
+    ],
+    "year": 2026,
+    "venue": "Preprint · arXiv:2607.27937",
+    "status": "preprint",
+    "url": "https://arxiv.org/abs/2607.27937",
+    "first": null,
+    "corresponding": true,
+    "links": [
+      {
+        "kind": "preprint",
+        "url": "https://arxiv.org/abs/2607.27937"
+      }
+    ],
+    "sources": [
+      "https://arxiv.org/html/2607.27937v1"
+    ]
+  },
+  {
+    "id": "dycon",
+    "title": "DyCon: Dynamic Reasoning Control via Evolving Difficulty Modeling",
+    "authors": [
+      "Tengyao Tu",
+      "Yulin Li",
+      "Hui-Ling Zhen",
+      "Libo Qin",
+      "Zhoujun Wei",
+      "Jinghua Piao",
+      "Zhuotao Tian",
+      "Yong Li",
+      "Min Zhang"
+    ],
+    "year": 2026,
+    "venue": "ICML 2026",
+    "status": "published",
+    "url": "https://proceedings.mlr.press/v306/tu26c.html",
+    "first": null,
+    "corresponding": false,
+    "links": [
+      {
+        "kind": "paper",
+        "url": "https://proceedings.mlr.press/v306/tu26c.html"
+      }
+    ],
+    "sources": [
+      "https://proceedings.mlr.press/v306/tu26c.html"
+    ]
+  },
+  {
+    "id": "profin",
+    "title": "Towards Professional-Grade Financial Agents: Benchmarking, Tooling, and Structured Reasoning",
+    "authors": [
+      "Cheng Huang",
+      "Jinghua Piao",
+      "Ranran Wang",
+      "Yong Li"
+    ],
+    "year": 2026,
+    "venue": "ICML 2026",
+    "status": "published",
+    "url": "https://proceedings.mlr.press/v306/huang26ap.html",
+    "first": "co-first",
+    "corresponding": true,
+    "links": [
+      {
+        "kind": "paper",
+        "url": "https://proceedings.mlr.press/v306/huang26ap.html"
+      }
+    ],
+    "sources": [
+      "https://raw.githubusercontent.com/mlresearch/v306/main/assets/huang26ap/huang26ap.pdf"
+    ]
+  },
+  {
+    "id": "paperrepro",
+    "title": "PaperRepro: Automated Computational Reproducibility Assessment for Social Science Papers",
+    "authors": [
+      "Linhao Zhang",
+      "Tong Xia",
+      "Jinghua Piao",
+      "Lizhen Cui"
+    ],
+    "year": 2026,
+    "venue": "KDD 2026",
+    "status": "published",
+    "url": "https://doi.org/10.1145/3770855.3818943",
+    "first": null,
+    "corresponding": false,
+    "links": [
+      {
+        "kind": "paper",
+        "url": "https://doi.org/10.1145/3770855.3818943"
+      }
+    ],
+    "sources": [
+      "https://api.crossref.org/works/10.1145/3770855.3818943",
+      "https://arxiv.org/abs/2603.00058"
+    ],
+    "metadataNote": "Author list follows the final KDD 2026 record (four authors); the earlier arXiv manuscript has five."
+  },
+  {
+    "id": "social-bonds",
+    "title": "The impact of social bonds on crisis perceptions during times of unsettling transition",
+    "authors": [
+      "Jing Yi Wang",
+      "Jinghua Piao",
+      "Zhilong Chen",
+      "Yong Li"
+    ],
+    "year": 2026,
+    "venue": "Humanities and Social Sciences Communications",
+    "status": "published",
+    "url": "https://www.nature.com/articles/s41599-026-06972-z",
+    "first": null,
+    "corresponding": false,
+    "links": [
+      {
+        "kind": "paper",
+        "url": "https://www.nature.com/articles/s41599-026-06972-z"
+      }
+    ],
+    "sources": [
+      "https://www.nature.com/articles/s41599-026-06972-z"
+    ]
+  },
+  {
+    "id": "paper2data",
+    "title": "Paper2Data: Large-Scale LLM Extraction and Metadata Structuring of Global Urban Data from Scientific Literature",
+    "authors": [
+      "Ruiwen You",
+      "Tong Xia",
+      "Jingzhi Wang",
+      "Jiankun Zhang",
+      "Tengyao Tu",
+      "Jinghua Piao",
+      "Yi Chang",
+      "Yong Li"
+    ],
+    "year": 2026,
+    "venue": "Preprint · arXiv:2604.16317",
+    "status": "preprint",
+    "url": "https://arxiv.org/abs/2604.16317",
+    "first": null,
+    "corresponding": false,
+    "links": [
+      {
+        "kind": "preprint",
+        "url": "https://arxiv.org/abs/2604.16317"
+      }
+    ],
+    "sources": [
+      "https://arxiv.org/abs/2604.16317"
+    ]
+  },
+  {
+    "id": "ubi",
+    "title": "LLM Agent Driven UBI Policy Experiments: A Case Study of AgentSociety as AI Social Scientist Platform",
+    "authors": [
+      "Che Bai",
+      "Yuwei Yan",
+      "Jinghua Piao",
+      "Yong Li"
+    ],
+    "year": 2026,
+    "venue": "KDD 2026 · AI Data Scientist Workshop · Oral",
+    "status": "published",
+    "url": "https://usail-hkust.github.io/aidatasci/assets/papers/llm-agent-driven-ubi-policy-experiments.pdf",
+    "first": null,
+    "corresponding": false,
+    "links": [
+      {
+        "kind": "paper",
+        "url": "https://usail-hkust.github.io/aidatasci/assets/papers/llm-agent-driven-ubi-policy-experiments.pdf"
+      }
+    ],
+    "sources": [
+      "https://usail-hkust.github.io/aidatasci/accepted-papers.html"
+    ]
+  },
+  {
+    "id": "skillmaster",
+    "title": "SkillMaster: Toward Autonomous Skill Mastery in LLM Agents",
+    "authors": [
+      "Min Yang",
+      "Jinghua Piao",
+      "Xu Xia",
+      "Xiaochong Lan",
+      "Jiaju Chen",
+      "Yongshun Gong",
+      "Yong Li"
+    ],
+    "year": 2026,
+    "venue": "NeurIPS 2026",
+    "status": "accepted",
+    "url": "https://arxiv.org/abs/2605.08693",
+    "first": null,
+    "corresponding": true,
+    "links": [
+      {
+        "kind": "preprint",
+        "url": "https://arxiv.org/abs/2605.08693"
+      }
+    ],
+    "sources": [
+      "https://arxiv.org/html/2605.08693",
+      "https://fi.ee.tsinghua.edu.cn/publications/?type=year"
+    ]
+  },
+  {
+    "id": "economist",
+    "title": "AgentEconomist: An End-to-end Agentic System Translating Economic Intuitions into Executable Computational Experiments",
+    "authors": [
+      "Jiaju Chen",
+      "Jinghua Piao",
+      "Xia Xu",
+      "Songwei Li",
+      "Tong Xia",
+      "Xiangnan He",
+      "Yong Li"
+    ],
+    "year": 2026,
+    "venue": "Preprint · arXiv:2604.27725",
+    "status": "preprint",
+    "url": "https://arxiv.org/abs/2604.27725",
+    "first": "co-first",
+    "corresponding": false,
+    "links": [
+      {
+        "kind": "preprint",
+        "url": "https://arxiv.org/abs/2604.27725"
+      }
+    ],
+    "sources": [
+      "https://arxiv.org/pdf/2604.27725"
+    ]
+  },
+  {
+    "id": "6",
+    "title": "Social Bots Meet Large Language Model: Political Bias and Social Learning Inspired Mitigation Strategies",
+    "authors": [
+      "Jinghua Piao",
+      "Zhihong Lu",
+      "Chen Gao",
+      "Yong Li"
+    ],
+    "year": 2025,
+    "venue": "The Web Conference (WWW) 2025",
+    "status": "published",
+    "url": "https://doi.org/10.1145/3696410.3714537",
+    "first": "first",
+    "corresponding": false,
+    "links": [
+      {
+        "kind": "paper",
+        "url": "https://doi.org/10.1145/3696410.3714537"
+      }
+    ],
+    "sources": [
+      "https://doi.org/10.1145/3696410.3714537"
+    ]
+  },
+  {
+    "id": "7",
+    "title": "Polarization of public opinions on feminism in China",
+    "authors": [
+      "Jinghua Piao",
+      "Fang Zhang",
+      "Tianpei Ren",
+      "Fengli Xu",
+      "Jinglei Zhou",
+      "Jun Su",
+      "Peng Ru",
+      "Yong Li"
+    ],
+    "year": 2025,
+    "venue": "Humanities and Social Sciences Communications",
+    "status": "published",
+    "url": "https://www.nature.com/articles/s41599-025-04635-z",
+    "first": "first",
+    "corresponding": false,
+    "links": [
+      {
+        "kind": "paper",
+        "url": "https://www.nature.com/articles/s41599-025-04635-z"
+      }
+    ],
+    "sources": [
+      "https://www.nature.com/articles/s41599-025-04635-z"
+    ]
+  },
+  {
+    "id": "8",
+    "title": "Exploring Large Language Model Agents for Piloting Social Experiments",
+    "authors": [
+      "Jinghua Piao",
+      "Yuwei Yan",
+      "Nian Li",
+      "Jun Zhang",
+      "Yong Li"
+    ],
+    "year": 2025,
+    "venue": "COLM 2025",
+    "status": "published",
+    "url": "https://arxiv.org/abs/2508.08678",
+    "first": "first",
+    "corresponding": false,
+    "links": [
+      {
+        "kind": "paper",
+        "url": "https://arxiv.org/abs/2508.08678"
+      }
+    ],
+    "sources": [
+      "https://arxiv.org/abs/2508.08678"
+    ]
+  },
+  {
+    "id": "9",
+    "title": "A Parallelized Framework for Simulating Large-Scale LLM Agents with Realistic Environments and Interactions",
+    "authors": [
+      "Jun Zhang",
+      "Yuwei Yan",
+      "Junbo Yan",
+      "Zhiheng Zheng",
+      "Jinghua Piao",
+      "Depeng Jin",
+      "Yong Li"
+    ],
+    "year": 2025,
+    "venue": "ACL 2025 · Industry Track",
+    "status": "published",
+    "url": "https://aclanthology.org/2025.acl-industry.94/",
+    "first": null,
+    "corresponding": false,
+    "links": [
+      {
+        "kind": "paper",
+        "url": "https://aclanthology.org/2025.acl-industry.94/"
+      }
+    ],
+    "sources": [
+      "https://aclanthology.org/2025.acl-industry.94/"
+    ]
+  },
+  {
+    "id": "10",
+    "title": "Can’t Stop Scrolling: Understanding the Online Behavioral Factors and Trends of Short-Video Addiction",
+    "authors": [
+      "Jing Yi Wang",
+      "Nicholas Sukiennik",
+      "Jinghua Piao",
+      "Zhiqiang Pan",
+      "Chen Gao",
+      "Yong Li"
+    ],
+    "year": 2025,
+    "venue": "ICWSM 2025",
+    "status": "published",
+    "url": "https://ojs.aaai.org/index.php/ICWSM/article/view/35915",
+    "first": null,
+    "corresponding": false,
+    "links": [
+      {
+        "kind": "paper",
+        "url": "https://ojs.aaai.org/index.php/ICWSM/article/view/35915"
+      }
+    ],
+    "sources": [
+      "https://ojs.aaai.org/index.php/ICWSM/article/view/35915"
+    ]
+  },
+  {
+    "id": "ai-urban",
+    "title": "AI Urban Scientist: Multi-Agent Collaborative Automation for Urban Research",
+    "authors": [
+      "Tong Xia",
+      "Jiankun Zhang",
+      "Ruiwen You",
+      "Ao Xu",
+      "Linghao Zhang",
+      "Tengyao Tu",
+      "Jingzhi Wang",
+      "Jinghua Piao",
+      "Yunke Zhang",
+      "Fengli Xu",
+      "Yong Li"
+    ],
+    "year": 2025,
+    "venue": "Preprint · arXiv:2512.07849",
+    "status": "preprint",
+    "url": "https://arxiv.org/abs/2512.07849",
+    "first": null,
+    "corresponding": false,
+    "links": [
+      {
+        "kind": "preprint",
+        "url": "https://arxiv.org/abs/2512.07849"
+      }
+    ],
+    "sources": [
+      "https://arxiv.org/abs/2512.07849"
+    ],
+    "alternateTitles": [
+      "Accelerating Urban Science Research with AI Urban Scientist"
+    ]
+  },
+  {
+    "id": "msa",
+    "title": "MSA-Net: A Multi-Scale Information Diffusion Model Awaring User Activity Level",
+    "authors": [
+      "Yinzhou Tang",
+      "Jinghua Piao",
+      "Huandong Wang",
+      "Yue Wang",
+      "Yong Li"
+    ],
+    "year": 2025,
+    "venue": "ACM Transactions on the Web",
+    "status": "published",
+    "url": "https://doi.org/10.1145/3711911",
+    "first": null,
+    "corresponding": false,
+    "links": [
+      {
+        "kind": "paper",
+        "url": "https://doi.org/10.1145/3711911"
+      }
+    ],
+    "sources": [
+      "https://doi.org/10.1145/3711911"
+    ],
+    "roleVerification": "Author-order verified; equal-contribution and corresponding-author footnotes unavailable. No positive role asserted pending author clarification."
+  },
+  {
+    "id": "cascade",
+    "title": "Predicting Cascade Failures in Interdependent Urban Infrastructure Networks",
+    "authors": [
+      "Yinzhou Tang",
+      "Jinghua Piao",
+      "Huandong Wang",
+      "Shaw Rajib",
+      "Yong Li"
+    ],
+    "year": 2025,
+    "venue": "Preprint · arXiv:2503.02890",
+    "status": "preprint",
+    "url": "https://arxiv.org/abs/2503.02890",
+    "first": null,
+    "corresponding": false,
+    "links": [
+      {
+        "kind": "preprint",
+        "url": "https://arxiv.org/abs/2503.02890"
+      }
+    ],
+    "sources": [
+      "https://arxiv.org/abs/2503.02890"
+    ]
+  },
+  {
+    "id": "responsible",
+    "title": "A Survey on Responsible LLMs: Inherent Risk, Malicious Use, and Mitigation Strategy",
+    "authors": [
+      "Huandong Wang",
+      "Wenjie Fu",
+      "Yingzhou Tang",
+      "Zhilong Chen",
+      "Yuxi Huang",
+      "Jinghua Piao",
+      "Chen Gao",
+      "Fengli Xu",
+      "Tao Jiang",
+      "Yong Li"
+    ],
+    "year": 2025,
+    "venue": "Preprint · arXiv:2501.09431",
+    "status": "preprint",
+    "url": "https://arxiv.org/abs/2501.09431",
+    "first": null,
+    "corresponding": false,
+    "links": [
+      {
+        "kind": "preprint",
+        "url": "https://arxiv.org/abs/2501.09431"
+      }
+    ],
+    "sources": [
+      "https://arxiv.org/abs/2501.09431"
+    ]
+  },
+  {
+    "id": "workflow",
+    "title": "Simulating Generative Social Agents via Theory-Informed Workflow Design",
+    "authors": [
+      "Yuwei Yan",
+      "Jinghua Piao",
+      "Xiaochong Lan",
+      "Chenyang Shao",
+      "Pan Hui",
+      "Yong Li"
+    ],
+    "year": 2025,
+    "venue": "Preprint · arXiv:2508.08726",
+    "status": "preprint",
+    "url": "https://arxiv.org/abs/2508.08726",
+    "first": null,
+    "corresponding": false,
+    "links": [
+      {
+        "kind": "preprint",
+        "url": "https://arxiv.org/abs/2508.08726"
+      }
+    ],
+    "sources": [
+      "https://arxiv.org/abs/2508.08726"
+    ]
+  },
+  {
+    "id": "debiasing",
+    "title": "Debiasing International Attitudes: LLM Agents for Simulating US-China Perception Changes",
+    "authors": [
+      "Nicholas Sukiennik",
+      "Yichuan Xu",
+      "Yuqing Kan",
+      "Jinghua Piao",
+      "Yuwei Yan",
+      "Chen Gao",
+      "Yong Li"
+    ],
+    "year": 2025,
+    "venue": "Preprint · arXiv:2508.08837",
+    "status": "preprint",
+    "url": "https://arxiv.org/abs/2508.08837",
+    "first": null,
+    "corresponding": false,
+    "links": [
+      {
+        "kind": "preprint",
+        "url": "https://arxiv.org/abs/2508.08837"
+      }
+    ],
+    "sources": [
+      "https://arxiv.org/abs/2508.08837"
+    ],
+    "alternateTitles": [
+      "The Roots of International Perceptions: Simulating US Attitude Changes Towards China with LLM Agents"
+    ]
+  },
+  {
+    "id": "biodynamic",
+    "title": "Bi-Dynamic Graph ODE for Opinion Evolution",
+    "authors": [
+      "Bowen Duan",
+      "Henggang Deng",
+      "Jinghua Piao",
+      "Huandong Wang",
+      "Yue Wang"
+    ],
+    "year": 2025,
+    "venue": "KDD 2025",
+    "status": "published",
+    "url": "https://doi.org/10.1145/3690624.3709297",
+    "first": null,
+    "corresponding": false,
+    "links": [
+      {
+        "kind": "paper",
+        "url": "https://doi.org/10.1145/3690624.3709297"
+      }
+    ],
+    "sources": [
+      "https://doi.org/10.1145/3690624.3709297"
+    ],
+    "roleVerification": "Author-order verified; equal-contribution and corresponding-author footnotes unavailable. No positive role asserted pending author clarification."
+  },
+  {
+    "id": "large-scale",
+    "title": "Large-scale Social Simulator: Frontiers and Perspectives",
+    "authors": [
+      "Jinghua Piao",
+      "Chen Gao",
+      "Fang Zhang",
+      "Jun Su",
+      "Yong Li"
+    ],
+    "year": 2025,
+    "venue": "Journal of System Simulation · 系统仿真学报",
+    "status": "published",
+    "url": "https://doi.org/10.16182/j.issn1004731x.joss.25-0135",
+    "first": "first",
+    "corresponding": false,
+    "links": [
+      {
+        "kind": "paper",
+        "url": "https://doi.org/10.16182/j.issn1004731x.joss.25-0135"
+      }
+    ],
+    "sources": [
+      "https://dc-china-simulation.researchcommons.org/journal/vol37/iss7/11/"
+    ],
+    "alternateTitles": [
+      "大型社会模拟器研究前沿与展望"
+    ]
+  },
+  {
+    "id": "11",
+    "title": "Predicting Long-term Dynamics of Complex Networks via Identifying Skeleton in Hyperbolic Space",
+    "authors": [
+      "Ruikun Li",
+      "Huandong Wang",
+      "Jinghua Piao",
+      "Qingmin Liao",
+      "Yong Li"
+    ],
+    "year": 2024,
+    "venue": "KDD 2024",
+    "status": "published",
+    "url": "https://doi.org/10.1145/3637528.3671968",
+    "first": null,
+    "corresponding": false,
+    "links": [
+      {
+        "kind": "paper",
+        "url": "https://doi.org/10.1145/3637528.3671968"
+      },
+      {
+        "kind": "preprint",
+        "url": "https://arxiv.org/abs/2408.09845"
+      }
+    ],
+    "sources": [
+      "https://doi.org/10.1145/3637528.3671968"
+    ]
+  },
+  {
+    "id": "ai-networks",
+    "title": "Artificial Intelligence for Complex Network: Potential, Methodology and Application",
+    "authors": [
+      "Jingtao Ding",
+      "Chang Liu",
+      "Yu Zheng",
+      "Yunke Zhang",
+      "Zihan Yu",
+      "Ruikun Li",
+      "Hongyi Chen",
+      "Jinghua Piao",
+      "Huandong Wang",
+      "Jiazhen Liu",
+      "Yong Li"
+    ],
+    "year": 2024,
+    "venue": "Preprint · arXiv:2402.16887",
+    "status": "preprint",
+    "url": "https://arxiv.org/abs/2402.16887",
+    "first": null,
+    "corresponding": false,
+    "links": [
+      {
+        "kind": "preprint",
+        "url": "https://arxiv.org/abs/2402.16887"
+      }
+    ],
+    "sources": [
+      "https://arxiv.org/abs/2402.16887"
+    ],
+    "alternateTitles": [
+      "A Comprehensive Survey on Artificial Intelligence for Complex Network: Potential, Methodology and Application"
+    ]
+  },
+  {
+    "id": "shorter",
+    "title": "Shorter Is Different: Characterizing the Dynamics of Short-Form Video Platforms",
+    "authors": [
+      "Zhilong Chen",
+      "Peijie Liu",
+      "Jinghua Piao",
+      "Fengli Xu",
+      "Yong Li"
+    ],
+    "year": 2024,
+    "venue": "Preprint · arXiv:2410.16058",
+    "status": "preprint",
+    "url": "https://arxiv.org/abs/2410.16058",
+    "first": null,
+    "corresponding": false,
+    "links": [
+      {
+        "kind": "preprint",
+        "url": "https://arxiv.org/abs/2410.16058"
+      }
+    ],
+    "sources": [
+      "https://arxiv.org/abs/2410.16058"
+    ]
+  },
+  {
+    "id": "12",
+    "title": "Human–AI adaptive dynamics drives the emergence of information cocoons",
+    "authors": [
+      "Jinghua Piao",
+      "Jiazhen Liu",
+      "Fang Zhang",
+      "Jun Su",
+      "Yong Li"
+    ],
+    "year": 2023,
+    "venue": "Nature Machine Intelligence",
+    "status": "published",
+    "url": "https://www.nature.com/articles/s42256-023-00731-4",
+    "first": "co-first",
+    "corresponding": false,
+    "links": [
+      {
+        "kind": "paper",
+        "url": "https://www.nature.com/articles/s42256-023-00731-4"
+      }
+    ],
+    "sources": [
+      "https://www.nature.com/articles/s42256-023-00731-4"
+    ]
+  },
+  {
+    "id": "s3",
+    "title": "S³: Social-network Simulation System with Large Language Model-Empowered Agents",
+    "authors": [
+      "Chen Gao",
+      "Xiaochong Lan",
+      "Zhihong Lu",
+      "Jinzhu Mao",
+      "Jinghua Piao",
+      "Huandong Wang",
+      "Depeng Jin",
+      "Yong Li"
+    ],
+    "year": 2023,
+    "venue": "Preprint · arXiv:2307.14984",
+    "status": "preprint",
+    "url": "https://arxiv.org/abs/2307.14984",
+    "first": null,
+    "corresponding": false,
+    "links": [
+      {
+        "kind": "preprint",
+        "url": "https://arxiv.org/abs/2307.14984"
+      }
+    ],
+    "sources": [
+      "https://arxiv.org/abs/2307.14984"
+    ]
+  },
+  {
+    "id": "gnn-survey",
+    "title": "A Survey of Graph Neural Networks for Recommender Systems: Challenges, Methods, and Directions",
+    "authors": [
+      "Chen Gao",
+      "Yu Zheng",
+      "Nian Li",
+      "Yinfeng Li",
+      "Yingrong Qin",
+      "Jinghua Piao",
+      "Yuhan Quan",
+      "Jianxin Chang",
+      "Depeng Jin",
+      "Xiangnan He",
+      "Yong Li"
+    ],
+    "year": 2023,
+    "venue": "ACM Transactions on Recommender Systems",
+    "status": "published",
+    "url": "https://doi.org/10.1145/3568022",
+    "first": null,
+    "corresponding": false,
+    "links": [
+      {
+        "kind": "paper",
+        "url": "https://doi.org/10.1145/3568022"
+      }
+    ],
+    "sources": [
+      "https://doi.org/10.1145/3568022"
+    ]
+  },
+  {
+    "id": "13",
+    "title": "Practitioners Versus Users: A Value-Sensitive Evaluation of Current Industrial Recommender System Design",
+    "authors": [
+      "Zhilong Chen",
+      "Jinghua Piao",
+      "Xiaochong Lan",
+      "Hancheng Cao",
+      "Chen Gao",
+      "Zhicong Lu",
+      "Yong Li"
+    ],
+    "year": 2022,
+    "venue": "CSCW 2022",
+    "status": "published",
+    "url": "https://doi.org/10.1145/3555646",
+    "first": "co-first",
+    "corresponding": false,
+    "links": [
+      {
+        "kind": "paper",
+        "url": "https://doi.org/10.1145/3555646"
+      },
+      {
+        "kind": "preprint",
+        "url": "https://arxiv.org/abs/2208.04122"
+      }
+    ],
+    "sources": [
+      "https://arxiv.org/abs/2208.04122",
+      "https://hci.stanford.edu/publications/2022/Cao_PractitionersVersusUsers.pdf"
+    ]
+  },
+  {
+    "id": "cocoon-short",
+    "title": "An Exploratory Study of Information Cocoon on Short-form Video Platform",
+    "authors": [
+      "Nian Li",
+      "Chen Gao",
+      "Jinghua Piao",
+      "Xin Huang",
+      "Aizhen Yue",
+      "Liang Zhou",
+      "Qingmin Liao",
+      "Yong Li"
+    ],
+    "year": 2022,
+    "venue": "CIKM 2022",
+    "status": "published",
+    "url": "https://doi.org/10.1145/3511808.3557548",
+    "first": null,
+    "corresponding": false,
+    "links": [
+      {
+        "kind": "paper",
+        "url": "https://doi.org/10.1145/3511808.3557548"
+      }
+    ],
+    "sources": [
+      "https://fi.ee.tsinghua.edu.cn/~gaochen/papers/CIKM2022-FilterBubble.pdf"
+    ]
+  },
+  {
+    "id": "food",
+    "title": "A Mixed-Methods Analysis of the Algorithm-Mediated Labor of Online Food Deliverers in China",
+    "authors": [
+      "Zhilong Chen",
+      "Xiaochong Lan",
+      "Jinghua Piao",
+      "Yunke Zhang",
+      "Yong Li"
+    ],
+    "year": 2022,
+    "venue": "CSCW 2022",
+    "status": "published",
+    "url": "https://doi.org/10.1145/3555585",
+    "first": null,
+    "corresponding": false,
+    "links": [
+      {
+        "kind": "paper",
+        "url": "https://doi.org/10.1145/3555585"
+      }
+    ],
+    "sources": [
+      "https://doi.org/10.1145/3555585"
+    ]
+  },
+  {
+    "id": "14",
+    "title": "Bringing Friends into the Loop of Recommender Systems: An Exploratory Study",
+    "authors": [
+      "Jinghua Piao",
+      "Guozhen Zhang",
+      "Fengli Xu",
+      "Zhilong Chen",
+      "Yu Zheng",
+      "Chen Gao",
+      "Yong Li"
+    ],
+    "year": 2021,
+    "venue": "CSCW 2021",
+    "status": "published",
+    "url": "https://doi.org/10.1145/3479583",
+    "first": "first",
+    "corresponding": false,
+    "links": [
+      {
+        "kind": "paper",
+        "url": "https://doi.org/10.1145/3479583"
+      }
+    ],
+    "sources": [
+      "https://doi.org/10.1145/3479583"
+    ]
+  },
+  {
+    "id": "15",
+    "title": "Predicting Customer Value with Social Relationships via Motif-based Graph Attention Networks",
+    "authors": [
+      "Jinghua Piao",
+      "Guozhen Zhang",
+      "Fengli Xu",
+      "Zhilong Chen",
+      "Yong Li"
+    ],
+    "year": 2021,
+    "venue": "The Web Conference (WWW) 2021",
+    "status": "published",
+    "url": "https://doi.org/10.1145/3442381.3449849",
+    "first": "first",
+    "corresponding": false,
+    "links": [
+      {
+        "kind": "paper",
+        "url": "https://doi.org/10.1145/3442381.3449849"
+      }
+    ],
+    "sources": [
+      "https://doi.org/10.1145/3442381.3449849"
+    ]
+  },
+  {
+    "id": "home",
+    "title": "Learning from Home: A Mixed-Methods Analysis of Live Streaming Based Remote Education Experience in Chinese Colleges during the COVID-19 Pandemic",
+    "authors": [
+      "Zhilong Chen",
+      "Hancheng Cao",
+      "Yuting Deng",
+      "Xuan Gao",
+      "Jinghua Piao",
+      "Fengli Xu",
+      "Yu Zhang",
+      "Yong Li"
+    ],
+    "year": 2021,
+    "venue": "CHI 2021",
+    "status": "published",
+    "url": "https://doi.org/10.1145/3411764.3445428",
+    "first": null,
+    "corresponding": false,
+    "links": [
+      {
+        "kind": "paper",
+        "url": "https://doi.org/10.1145/3411764.3445428"
+      }
+    ],
+    "sources": [
+      "https://doi.org/10.1145/3411764.3445428"
+    ]
+  },
+  {
+    "id": "ecommerce",
+    "title": "“I Think You’ll Like It”: Modelling the Online Purchase Behavior in Social E-commerce",
+    "authors": [
+      "Fengli Xu",
+      "Zhenyu Han",
+      "Jinghua Piao",
+      "Yong Li"
+    ],
+    "year": 2019,
+    "venue": "CSCW 2019",
+    "status": "published",
+    "url": "https://doi.org/10.1145/3359167",
+    "first": null,
+    "corresponding": false,
+    "links": [
+      {
+        "kind": "paper",
+        "url": "https://doi.org/10.1145/3359167"
+      }
+    ],
+    "sources": [
+      "https://doi.org/10.1145/3359167"
+    ]
+  },
+  {
+    "id": "mobisim",
+    "title": "MobiSim-Bench: A Multi-Perspective Benchmark for Evaluating LLM-Agent-Based Human Mobility Simulation",
+    "authors": [
+      "Jun Zhang",
+      "Yuwei Yan",
+      "Zhiheng Zheng",
+      "Boyuan Sun",
+      "Jinghua Piao",
+      "Depeng Jin",
+      "Pan Hui",
+      "Qingmin Liao",
+      "Yong Li"
+    ],
+    "year": null,
+    "venue": "Manuscript · OpenReview",
+    "status": "preprint",
+    "url": "https://openreview.net/forum?id=3QFvAXuNl7",
+    "first": null,
+    "corresponding": false,
+    "links": [
+      {
+        "kind": "preprint",
+        "url": "https://openreview.net/forum?id=3QFvAXuNl7"
+      }
+    ],
+    "sources": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FfWpCk0AAAAJ&citation_for_view=FfWpCk0AAAAJ:blknAaTinKkC"
+    ]
+  }
+]
